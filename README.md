@@ -1,4 +1,4 @@
-# Hi there, I'm a Fintech Architect 👋
+# Hi, Solomon here, 👋
 
 > **Software Engineer | API Architect | Java Enthusiast**
 
@@ -11,9 +11,9 @@ I am a results-driven engineer specializing in high-performance architectures wi
 **The Daily Drivers (TypeScript & NestJS)**
 I specialize in architecting scalable APIs and leveraging clean code principles to ensure production-ready stability.
 
-* **Languages:** TypeScript, JavaScript, Java
-* **Frameworks:** NestJS, Express, SpringBoot
-* **Architecture:** Microservices, Event-Driven Architecture, REST
+* **Languages:** TypeScript, JavaScript, Java, Go
+* **Frameworks:** NestJS, Express, SpringBoot, React, React Native
+* **Database:** MySql, Postgres, MongoDB.
 
 **The Passion Project (Java Ecosystem)**
 While I excel in Node.js environments. I am deeply passionate about building enterprise-grade applications.
@@ -48,5 +48,6 @@ I believe in **clean code**, **rigorous testing**, and **mentorship**. Whether I
 
 I am always open to discussing Spring Boot patterns, API scalability, or the intricacies of financial compliance in code.
 
+Reach me **solomonabu90@gmail.com**
 * [LinkedIn](https://www.linkedin.com/in/solomon-abu-422710196/)
 * [Email](solomonabu90@gmail.com)
