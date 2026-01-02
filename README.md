@@ -11,12 +11,12 @@ I am a results-driven engineer specializing in high-performance architectures wi
 **The Daily Drivers (TypeScript & NestJS)**
 I specialize in architecting scalable APIs and leveraging clean code principles to ensure production-ready stability.
 
-* **Languages:** TypeScript, JavaScript, SQL
-* **Frameworks:** NestJS, Express
+* **Languages:** TypeScript, JavaScript, Java
+* **Frameworks:** NestJS, Express, SpringBoot
 * **Architecture:** Microservices, Event-Driven Architecture, REST
 
 **The Passion Project (Java Ecosystem)**
-While I excel in Node.js environments, my heart beats for the JVM. I am deeply passionate about building enterprise-grade applications.
+While I excel in Node.js environments. I am deeply passionate about building enterprise-grade applications.
 
 * **Core:** Java 17+, Spring Boot
 * **Focus:** Resource efficiency, Strong Typing, Enterprise Patterns
