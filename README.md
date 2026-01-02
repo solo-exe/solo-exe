@@ -48,6 +48,6 @@ I believe in **clean code**, **rigorous testing**, and **mentorship**. Whether I
 
 I am always open to discussing Spring Boot patterns, API scalability, or the intricacies of financial compliance in code.
 
-Reach me **solomonabu90@gmail.com**
+Reach me at solomonabu90@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/solomon-abu-422710196/)
 * [Email](solomonabu90@gmail.com)
