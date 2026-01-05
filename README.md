@@ -50,4 +50,3 @@ I am always open to discussing Spring Boot patterns, API scalability, or the int
 
 Reach me at solomonabu90@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/solomon-abu-422710196/)
-* Email: solomonabu90@gmail.com
