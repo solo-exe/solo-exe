@@ -12,7 +12,7 @@ I am a results-driven engineer specializing in high-performance architectures wi
 I specialize in architecting scalable APIs and leveraging clean code principles to ensure production-ready stability.
 
 * **Languages:** TypeScript, JavaScript, Java, Go
-* **Frameworks:** NestJS, Express, SpringBoot, React
+* **Frameworks:** NestJS, Express, SpringBoot, React, Nextjs
 * **Database:** MySql, Postgres, MongoDB.
 
 **The Passion Project (Java Ecosystem)**
