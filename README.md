@@ -1,6 +1,6 @@
 # Hi, Solomon here, 👋
 
-> **Software Engineer | API Architect | Java Enthusiast**
+> **Software Engineer | API Architect | Typescript and Java Developer**
 
 I am a results-driven engineer specializing in high-performance architectures within the **Fintech** and **Hospitality** sectors. My focus is on transforming legacy monoliths into scalable systems and engineering robust financial infrastructure.
 
